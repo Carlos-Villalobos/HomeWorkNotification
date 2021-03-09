@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24311093141",
+    "firebase_url": "https://homeworknot-26cf3.firebaseio.com",
+    "project_id": "homeworknot-26cf3",
+    "storage_bucket": "homeworknot-26cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24311093141:android:28600b4c866b9a0b47489c",
+        "android_client_info": {
+          "package_name": "com.homework_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24311093141-gah9ojafplia6nvdnga364ekl9d1gmhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0HXIUiRFxpQK0Qs0OYZR81hZmKb6AHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24311093141-gah9ojafplia6nvdnga364ekl9d1gmhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
