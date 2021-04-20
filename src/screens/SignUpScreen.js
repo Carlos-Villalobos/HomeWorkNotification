@@ -2,7 +2,6 @@ import React from 'react'
 import{ View, StyleSheet, Dimensions, ImageBackground, Image, TouchableOpacity, ScrollView } from 'react-native'
 import { Container, Button, Content, Form, Item, Input, Label, Text } from 'native-base'
 import styles from '../styles/Styles'
-import { addDocument } from '../initFirebase'
 
 export default class SignUpScreen extends React.Component{
   constructor(props){

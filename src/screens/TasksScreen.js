@@ -2,7 +2,7 @@ import React from 'react'
 import{ View, ImageBackground, Image, StyleSheet, Dimensions, TextInput, ScrollView, TouchableOpacity } from 'react-native'
 import { Card, CardItem, Text, Button, Icon, Left, Body, Right, Item, Input, Label, DatePicker } from 'native-base'
 import styles from '../styles/Styles'
-import { addDocument } from '../initFirebase'
+
 
 export default class TasksScreen extends React.Component {
 

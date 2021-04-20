@@ -2,7 +2,6 @@ import React from 'react'
 import{ View, ImageBackground, StyleSheet, Dimensions, Image, TouchableOpacity, ScrollView, Share } from 'react-native'
 import { Button, Text, Card, CardItem, Icon, Left } from 'native-base'
 import styles from '../styles/Styles'
-import { getResource } from '../initFirebase'
 
 export default class NFCScreen extends React.Component {
 

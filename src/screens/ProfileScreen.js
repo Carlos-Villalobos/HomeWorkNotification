@@ -2,7 +2,6 @@ import React from 'react'
 import { View, ImageBackground, StyleSheet, Dimensions, Image, TouchableOpacity, ScrollView } from 'react-native'
 import { Card, CardItem, Text, Button, Icon, Left, Body, Right } from 'native-base'
 import { SearchBar, Avatar, Accessory, CheckBox } from 'react-native-elements'
-import { getResource, deleteDocument } from '../initFirebase'
 
 export default class ProfileScreen extends React.Component {
 

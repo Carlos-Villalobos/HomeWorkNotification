@@ -2,7 +2,6 @@ import React from 'react'
 import{ View, ImageBackground, StyleSheet, Dimensions, Image, TouchableOpacity, ScrollView} from 'react-native'
 import { Card, CardItem, Text, Button, Icon, Left } from 'native-base'
 import { Badge } from 'react-native-elements'
-import { getResource, deleteDocument } from '../initFirebase'
 import Overlay from '../components/Overlay'
 
 export default class DetailsScreen extends React.Component {
